@@ -72,7 +72,7 @@ const Employees = () => {
   );
 
   return (
-    <div className="p-8">
+    <div className="p-8">{' '}
       <div className="mb-8 flex items-center justify-between">
         <div>
           <h1 className="text-3xl font-bold text-foreground mb-2">Реестр сотрудников</h1>

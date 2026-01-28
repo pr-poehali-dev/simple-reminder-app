@@ -34,7 +34,7 @@ const Dashboard = () => {
     .slice(0, 5);
 
   return (
-    <div className="p-8">
+    <div className="p-8">{' '}
       <div className="mb-8">
         <h1 className="text-3xl font-bold text-foreground mb-2">Панель управления</h1>
         <p className="text-muted-foreground">Обзор текущего состояния допусков сотрудников</p>

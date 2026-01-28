@@ -10,6 +10,7 @@ type LayoutProps = {
 const menuItems = [
   { path: '/', icon: 'LayoutDashboard', label: 'Главная' },
   { path: '/employees', icon: 'Users', label: 'Сотрудники' },
+  { path: '/permits', icon: 'Shield', label: 'Допуски' },
   { path: '/notifications', icon: 'Bell', label: 'Уведомления' },
   { path: '/settings', icon: 'Settings', label: 'Настройки' },
 ];
